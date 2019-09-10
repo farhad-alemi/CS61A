@@ -15,6 +15,7 @@ increment = lambda x: x + 1
 ######################
 # Required Questions #
 ######################
+
 def product(n, term):
     """Return the product of the first n terms in a sequence.
     n    -- a positive integer
